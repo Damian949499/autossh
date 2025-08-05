@@ -253,7 +253,7 @@ Contributions are welcome! Please:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+There Is No License, Feel Free To Use This However You Like, If This Is Used Illegally You Are The Only Person Responsible And I Do Not Claim Any Responsibility For Your Actions
 
 ## 🔗 Related Projects
 
